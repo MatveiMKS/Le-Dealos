@@ -1,4 +1,6 @@
-# <ins>Cahier des charges</ins>
+# Le Dealos (projet arduino peip2)
+
+## <ins>Cahier des charges</ins>
 
 ## I. <ins>Contexte et réalisation du problème</ins>
 Lors de diverses soirées jeux de société durant lesquelles nous souhaitions jouer au BlackJack, nous avons été confrontés au problème de devoir sacrifier un joueur pour qu’il prenne le rôle du croupier.
