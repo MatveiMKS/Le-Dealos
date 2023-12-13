@@ -1,9 +1,9 @@
 # Rapport de séance 1
 ## Creation du support de carte 
-Creation d'une boite sur Makercase aux dimension d'un paquet de carte Bicycle classique
-Edition de la face du haut de cette boite à l'aide du logiciel Inkscape. 
+Creation d'une boite sur Makercase aux dimension d'un paquet de carte Bicycle classique \n
+Edition de la face du haut de cette boite à l'aide du logiciel Inkscape. \n
 La fente créée permettra que la roue soit en contact avec les cartes 
-afin de les distribuer.
+afin de les distribuer. \n
 Nous pourrons réaliser la découpe la semaine prochaine.
 
 ## Essai et création d'une programme pour le Servomoteur SG90
