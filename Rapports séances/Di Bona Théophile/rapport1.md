@@ -18,3 +18,4 @@ lien d'une image
 ## Objectif pour la semaine suivante 
 Réaliser la découpe laser du support 
 Réaliser le montage du système moteur et support 
+  Sytème de charnière pour faire le tenir le moteur equipé d'un ressort pour maintenir une pression constante
