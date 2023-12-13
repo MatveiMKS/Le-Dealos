@@ -1,4 +1,7 @@
 # Rapport de séance 1 du 13/12/2023
 
 ## Résolution de problème d'IDE
-Lors du démarrage du projet, je me suis rendu compte que mon IDE était mal installé sur ma machine il a fallu débugger le problème et réinstaller de la bonne manière afin de pouvoir le lancer dans les tests avec les boutons.
+Lors du démarrage du projet, je me suis rendu compte que mon IDE était mal installé et nous n'avons pas trouvé de solution je serais donc obligé d'aller visiter le bureau de 
+Sans moyen d'utiliser ma carte arduino je suis obligé de passer au prototypage.
+
+## Soudure des boutons
