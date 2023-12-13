@@ -1,9 +1,9 @@
 # Rapport de séance 1
 ## Creation du support de carte 
-Creation d'une boite sur Makercase aux dimension d'un paquet de carte Bicycle classique
-Edition de la face du haut de cette boite à l'aide du logiciel Inkscape. 
+Creation d'une boite sur Makercase aux dimension d'un paquet de carte Bicycle classique \n
+Edition de la face du haut de cette boite à l'aide du logiciel Inkscape. \n
 La fente créée permettra que la roue soit en contact avec les cartes 
-afin de les distribuer.
+afin de les distribuer. \n
 Nous pourrons réaliser la découpe la semaine prochaine.
 
 ## Essai et création d'une programme pour le Servomoteur SG90
@@ -14,3 +14,8 @@ Cela m'a aussi fait me questionner sur l'idée d'agrandir la fente car lorsque l
 est mieux gérée. De plus les cartes vont plus loins.
 Nous pensons aussi qu'il faudra rajouter une petit rampe pour faire en sorte que les cartes aillent plus loin.  
 lien d'une image
+
+## Objectif pour la semaine suivante 
+Réaliser la découpe laser du support 
+Réaliser le montage du système moteur et support 
+  Sytème de charnière pour faire le tenir le moteur equipé d'un ressort pour maintenir une pression constante
