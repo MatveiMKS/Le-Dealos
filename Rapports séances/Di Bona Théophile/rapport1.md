@@ -14,3 +14,7 @@ Cela m'a aussi fait me questionner sur l'idée d'agrandir la fente car lorsque l
 est mieux gérée. De plus les cartes vont plus loins.
 Nous pensons aussi qu'il faudra rajouter une petit rampe pour faire en sorte que les cartes aillent plus loin.  
 lien d'une image
+
+## Objectif pour la semaine suivante 
+Réaliser la découpe laser du support 
+Réaliser le montage du système moteur et support 
