@@ -17,6 +17,7 @@ Nous pourrons réaliser la découpe la semaine prochaine.
 Réalisation d'un programme permettant de distribuer une carte à la fois.
 
 ![Programme distribution](https://github.com/MatveiBG/Le-Dealos/blob/main/Images%20Diverses/programme_distribution_v1.JPG)
+![Première tentative distribution de carte](https://github.com/MatveiBG/Le-Dealos/blob/main/Images%20Diverses/20231213_123433.jpg)
 
 
 J'ai constaté qu'il va être compliqué de gérer la pression de la roue sur les cartes.
