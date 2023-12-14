@@ -9,7 +9,7 @@ Edition de la face du haut de cette boite à l'aide du logiciel Inkscape.
 La fente créée permettra que la roue soit en contact avec les cartes 
 afin de les distribuer. 
 
-![Plan de découpe](https://github.com/MatveiBG/Le-Dealos/edit/main/Rapports%20s%C3%A9ances/Di%20Bona%20Th%C3%A9ophile/rapport1.md)
+![Plan de découpe](https://github.com/MatveiBG/Le-Dealos/blob/main/Images%20Diverses/capture_support_carte.JPG)
 
 Nous pourrons réaliser la découpe la semaine prochaine.
 
