@@ -9,6 +9,7 @@ Edition de la face du haut de cette boite à l'aide du logiciel Inkscape.
 La fente créée permettra que la roue soit en contact avec les cartes 
 afin de les distribuer. 
 
+![alt text](Images Diverses/capture_support_carte.JPG)
 
 Nous pourrons réaliser la découpe la semaine prochaine.
 
