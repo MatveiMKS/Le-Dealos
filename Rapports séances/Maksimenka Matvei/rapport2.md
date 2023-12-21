@@ -12,8 +12,8 @@ J'ai pu cette semaine faire le branchement des 4 boutons dont on aura besoin pou
 Je me suis ensuite occupé du code qui détecte quel bouton a été appuyé en dernier at fait en sorte qu'on ait plus qu'a ajouter sa fonction (simulé par l'affichage du mot action).
 
 <p align="middle">
-    <img src="https://github.com/MatveiBG/Le-Dealos/blob/main/Images%20Diverses/20231213_115449.jpg" width="300" />
-    <img src="https://github.com/MatveiBG/Le-Dealos/blob/main/Images%20Diverses/20231213_121834.jpg" width="300" /> 
+    <img src="/Images Diverses/demande choix.jpg" width="200" />
+    <img src="/Images Diverses/affichage choix.jp" width="200" /> 
 </p>
 <p align="middle">
     <a>Soudure d'un bouton</a>
