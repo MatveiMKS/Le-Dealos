@@ -3,13 +3,13 @@
 ## Branchement des 4 boutons
 J'ai pu cette semaine faire le branchement des 4 boutons dont on aura besoin pour interagir avec notre robot.
 <p align="middle">
-    <img src="/Images Diverses/boutons montage.png" heignt="300" />
-    <img src="https://github.com/MatveiBG/Le-Dealos/blob/main/Images%20Diverses/20231213_121834.jpg" width="300" /> 
+    <img src="/Images Diverses/boutons montage.png" width="600" />
+    <img src="/Images Diverses/bracnchement boutons.jpg" width="200" /> 
 </p>
 
 
-## Soudure des boutons
-Les bontons n'ayant pas de fils au bout, j'ait soudé des fils avec des embouts males pour les connecter sur l'Arduino. Je les ait ensuite testés pour vérifier que j'ai bien soudé pour enfin mettre du gaffeur pour eviter les courts circuits ou que les soudures cassent.
+## Code pour les boutons
+Je me suis ensuite occupé du code qui détecte quel bouton a été appuyé en dernier at fait en sorte qu'on ait plus qu'a ajouter sa fonction (simulé par l'affichage du mot action).
 
 <p align="middle">
     <img src="https://github.com/MatveiBG/Le-Dealos/blob/main/Images%20Diverses/20231213_115449.jpg" width="300" />
