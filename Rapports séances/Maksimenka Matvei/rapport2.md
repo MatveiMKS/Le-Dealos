@@ -9,17 +9,17 @@ J'ai pu cette semaine faire le branchement des 4 boutons dont on aura besoin pou
 
 
 ## Code pour les boutons
-Je me suis ensuite occupé du code qui détecte quel bouton a été appuyé en dernier at fait en sorte qu'on ait plus qu'a ajouter sa fonction (simulé par l'affichage du mot action).
+Je me suis ensuite occupé du code qui détecte quel bouton a été appuyé en dernier et fait en sorte qu'on ait plus qu'à ajouter sa fonction (simulé par l'affichage du mot action).
 
 <p align="middle">
     <img src="/Images Diverses/demande choix.jpg" width="200" />
-    <img src="/Images Diverses/affichage choix.jp" width="200" /> 
+    <img src="/Images Diverses/affichage choix.jpg" width="200" /> 
 </p>
 <p align="middle">
-    <a>Soudure d'un bouton</a>
+    <a>Demande d'interaction</a>
     <a>-------------------</a>
-    <a>Test de l'un des boutons</a>
+    <a>Affichage de l'action</a>
 </p>
 
 ## Conclusion de la séance
-Je n'ai malheureusement pas pu avancer aussi loin que je voulais en raisons de mes problèmes ordinateur qui ne sont tout de même pas résolus, j'espère rattraper le rythme a la prochaine séance.
+J'ai maintenant la base qui me permettra de piloter tout le projet, il faut maintenant que je relie le code a la partie de Théophile afin que l'on puisse se faire distribuer une carte en appuyant sur un bouton.
