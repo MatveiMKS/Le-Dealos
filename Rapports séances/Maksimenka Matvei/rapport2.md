@@ -3,7 +3,8 @@
 ## Branchement des 4 boutons
 J'ai pu cette semaine faire le branchement des 4 boutons dont on aura besoin pour interagir avec notre robot.
 <p align="middle">
-    <img src="https://github.com/MatveiBG/Le-Dealos/blob/main/Images%20Diverses/20231213_115449.jpg" width="300" />
+    <img src="/Images Diverses/boutons montage.png" heignt="300" />
+    <img src="https://github.com/MatveiBG/Le-Dealos/blob/main/Images%20Diverses/20231213_121834.jpg" width="300" /> 
 </p>
 
 
