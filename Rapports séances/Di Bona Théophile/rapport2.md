@@ -8,6 +8,8 @@ J'ai agrandi le creux sur la surface haute de la boite afin de m'assurer que le 
 
 Une fois le support découpé je l'ai assemblé puis collé avec de colle à bois pour assurer une meilleur rigidité. J'ai donc obtenu le résultat suivant :
 
+![support](https://github.com/MatveiBG/Le-Dealos/blob/main/Images%20Diverses/support_carte_assemble.jpg)
+
 ## Ajout du moteur sur le support 
 Puis j'ai réflechis et comparé les différents système pour la fixation du moteur sur le support. J'ai finalement opté pour un système de charnière fixé sur le 
 coté du support. Le moteur se colle au carte grâce à son poids et descend petit à petit au fur et à mesure que les cartes sont distribuées.
@@ -15,6 +17,8 @@ Le bois du support étant peu épais, j'ai fixé la charnière au support et le 
 
 J'ai ensuite adapté les temps et puissance de moteur sur le programme arduino afin de ne distribuer qu'une seule carte à la fois. 
 J'obtiens donc le resultat suivant : 
+
+![fonctionnement](https://github.com/MatveiBG/Le-Dealos/blob/main/Images%20Diverses/fonctionnement_moteur_support_v1.mp4)
 
 Parfois deux cartes sont à distribuées en une seule fois, je pense que cela est lié au fait que les cartes ne sont pas plastifiées donc celle-ci s'accrochent 
 entre elles. Nous opterons ainsi pour une jeu de bicycle plastifié comme ceux utilisé en magie ou au poker.
@@ -25,3 +29,4 @@ Cependant cela à causé de nombreux bugs, l'écran ne s'allumait pas et le mote
 En conclusion, j'ai réussi à accomplir le premier objecif sur le temps que nous nous étions donné. 
 
 ## Objectif pour la séance suivante
+Ayant fini cette première partie, je vais pouvoir me lancer sur l'affichage écran des différents statuts de jeux. Etant donné que les écrans LCD semblent petit peut être utiliser un écran plus grand.
