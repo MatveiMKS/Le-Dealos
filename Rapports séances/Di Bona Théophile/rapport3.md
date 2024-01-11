@@ -20,7 +20,7 @@ effectuer une rotation de 180°.
 
 Pour la prochaine séance, prendrais un moteur pas à pas cela sera plus simple, n'utilisant les autres fonctions du servo-moteur
 
-![support]()
+![support](https://github.com/MatveiBG/Le-Dealos/blob/main/Images%20Diverses/engrenage_support.jpg)
 
 ## Bilan 
 
