@@ -1,3 +1,5 @@
+# Rapport de séance 3
+
 J'ai commencé la séance par me questionner quant à la réalisation du support rotatif. J'ai opté pour un système d'engrenage qui serait placé en-dessous 
 le système de distribution. Il y aurait une grande roue dentée ouverte fixe dans laquelle une autre roue denté entrainée par un moteur tournerait à l'intérieur
 de cette roue pour faire tourner tout le système.
