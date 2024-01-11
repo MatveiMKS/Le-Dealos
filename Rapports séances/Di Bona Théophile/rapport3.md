@@ -20,6 +20,8 @@ effectuer une rotation de 180°.
 
 Pour la prochaine séance, prendrais un moteur pas à pas cela sera plus simple, n'utilisant les autres fonctions du servo-moteur
 
+![support]()
+
 ## Bilan 
 
 J'ai peu avancé durant cette séance, j'espère pouvoir être plus productif durant la prochaine séance et finir si possible le support
