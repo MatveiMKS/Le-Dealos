@@ -8,7 +8,7 @@ J'ai pu donc ensuite procéder aux premières parties de code. A l'aide d'une va
 Afin de simuler la distribution d'une carte je choisi au hasard dans une liste,l'une des 52 cartes d'un jeu de cartes classique et j'affiche celle si lorsque l'on appuie sur le bouton 1 pour tirer.
 
 <p align="middle">
-    <img src="/Images Diverses/choix nb joueur.jpg" width="600" />
+    <img src="/Images Diverses/demo_choix_joueurs.jpg" width="600" />
 </p>
 
 Objectif pour la prochaine semaine: permettre au croupier de jouer, et si on a reçu le lecteur qr code implementer lecture des cartes .
