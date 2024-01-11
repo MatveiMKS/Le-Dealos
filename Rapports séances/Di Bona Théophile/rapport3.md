@@ -1,5 +1,7 @@
 # Rapport de séance 3
 
+## Réalisation du support rotatif 
+
 J'ai commencé la séance par me questionner quant à la réalisation du support rotatif. J'ai opté pour un système d'engrenage qui serait placé en-dessous 
 le système de distribution. Il y aurait une grande roue dentée ouverte fixe dans laquelle une autre roue denté entrainée par un moteur tournerait à l'intérieur
 de cette roue pour faire tourner tout le système.
@@ -17,3 +19,7 @@ il pouvait seulement tourner sur un angle de 270°. J'ai donc demandé un autre 
 effectuer une rotation de 180°. 
 
 Pour la prochaine séance, prendrais un moteur pas à pas cela sera plus simple, n'utilisant les autres fonctions du servo-moteur
+
+## Bilan 
+
+J'ai peu avancé durant cette séance, j'espère pouvoir être plus productif durant la prochaine séance et finir si possible le support
