@@ -16,3 +16,9 @@ Pour cela j'ai tracé un cercle du diamètre de la roue crantée avec un creux e
 J'ai ensuité été découper cette pièce au Fab Lab dans du contre plaqué de 5mm. Malheureusement au moins d'agrandir mon cercle je n'ai pas conservé la taille de 
 l'encoche pour le moteur. Donc au moment d'assembler les pièces, les trous permettant de fixer le moteur étaient dans le vide. J'ai donc du réaliser une autre 
 pièce dans les bonnes dimension. J'en ai aussi profiter pour faire les trous pour les vis pour ne pas avoir à repercer dans le contreplaquer et risquer de briser le bois.
+
+![image](https://github.com/MatveiBG/Le-Dealos/blob/main/Images%20Diverses/systeme_rotatif_v1.jpg)
+
+## Objectif pour la semaine prochaine 
+
+Finir le support rotatif et débuter la lecture des QR codes.
