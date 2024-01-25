@@ -12,6 +12,8 @@ J'ai aussi profiter de ce temps pour répondre à leurs question sur l'école.
 Une fois cette découpe réalisée, j'ai fixé mon moteur sur ce support à l'aide de vis et d'écrous que j'ai pu glisser dans les trous prévu à cet effet.
 J'en ai aussi profité pour collé le pignon réaliser lors de la dernière séance au moteur pas à pas.
 
+![image](https://github.com/MatveiBG/Le-Dealos/blob/main/Images%20Diverses/fixation_moteur.jpg)
+
 J'ai ensuite commencé l'assemblage du support rotatif et j'ai toute de suite fait face à un premier problème, celui-ci n'etait pas équilibré. 
 J'ai donc tenté de mettre une punaise en-dessous du support pour le remettre à niveau cependant mon moteur deviait de sa trajectoire. J'ai donc 
 réflechit à une autre option pour ajuster cela. J'ai choisit de réaliser un autre écrou qui serait fixé à l'opposé du moteur qui aurait pour fonction de 
