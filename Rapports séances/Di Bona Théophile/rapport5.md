@@ -18,6 +18,8 @@ réflechit à une autre option pour ajuster cela. J'ai choisit de réaliser un a
 bloquer la trajectoire de la partie rotative. J'ai donc réaliser un deuxième écrou avec un trou au milieu afin qu'il puisse acceuillir une tige autour de laquelle il tournerait. Encore une découpe au FabLaB pour ce deuxième écrou. J'ai ensuite été percer ma plaque rotative pour venir glisser la tige à l'intérieur.
 J'ai tout assemblé mais malheureusement le moteur se bloquait comme s'il n'avait pas assez de couple pour entrainer ce 2ème écrou.
 
+![image](https://github.com/MatveiBG/Le-Dealos/blob/main/Images%20Diverses/rotation_double_pignon.jpg)
+
 En 3ème option, j'ai choisit de mettre un axe métallique au milieu du support afin d'être sur que ça dévie pas de la trajectoire. Je pensais y placer un roulement à bille pour faciliter la rotation cependant après m'être concerter avec les professeurs un axe metallique seul devrait suffir.
 Cependant, je n'ai pas le temps de réaliser cette dernière option.
 
