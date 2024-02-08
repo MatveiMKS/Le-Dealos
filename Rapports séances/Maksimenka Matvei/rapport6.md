@@ -8,6 +8,6 @@ J'ai décidé de continuer la séance en créant la plateforme surélevée qui c
 
 <p align="middle">
     <img src="/Images Diverses/2 plaques.jpg" width="200" />
-    <img src="/Images Diverses/cv te meuler.jpg.jpg" width="200" />
+    <img src="/Images Diverses/cv te meuler.jpg" width="200" />
 </p>
 
