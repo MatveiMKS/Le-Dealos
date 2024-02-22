@@ -15,6 +15,8 @@ Afin de fixer le lecteur de QR, j'ai utilisé un plaque de bois designée par Ma
 l'aide la colle à bois sur le coté du réservoir à cartes. Puis à l'extrémité de cette plaque, j'ai fixé le lecteur de QR une fois que je m'étais assuré que 
 son placement était bon. Cela fonctionne parfaitement.
 
+![image](https://github.com/MatveiMKS/Le-Dealos/blob/main/Images%20Diverses/lecteur_qr.jpg)
+
 # Réglage du lecteur 
 Un problème auquel je n'avais pas pensé est que le capteur étant placé tout le temps devant le QR celui-ci lit constament la valeur du QR. Ce qui surcharge la
 mémoire de l'Arduino. J'ai donc modifier mon programme de manière à ce que un fois le QR est lu, si le précédent est le même alors celui-ci n'est pris compte.
