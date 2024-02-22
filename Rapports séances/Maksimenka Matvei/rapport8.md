@@ -7,3 +7,7 @@ Pour cela j'ai tout d'abord créé un designer a découper a la decoupe laser, m
 ## Réhaussement de la plateforme
 En prenant en compte tous les branchements nécessaires pour le projet je me suis rendu compte qu'il me faudra plus de place afin d'ajouter une plaque de distribution et faire passer plus de fils. J'ai donc ajouté des entretoises à chaque support et ai dû donc prendre de plus longue vis.
 
+<p align="middle">
+    <img src="/Images Diverses/ecran monte.jpg" width="600" />
+    <img src="/Images Diverses/ecran arriere.jpg" width="600" />
+</p>
